@@ -31,7 +31,7 @@
   },
   "main": "./lib/ims-lti",
   "scripts": {
-    "install": "make build"
+    "postinstall": "make build"
   },
   "dependencies": {
     "xml2js": "~0.4.0",

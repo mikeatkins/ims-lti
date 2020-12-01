@@ -3,10 +3,6 @@
 .jshintrc
 coffeelint.json
 
-Makefile
-src
-test
-coverage
 .travis.yml
 
 ims-lti*.tgz
